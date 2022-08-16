@@ -1,0 +1,2 @@
+Deep Neural networks have been traditionally used for  supervised learning, Classification & Regression. GAN uses the neural network architecture for generative modeling, meaning generating completely new images from scratch by learning the regularities & patterns of the existing images. (So basically it generates images that look like it could have been part of the training dataset), This is similar to how a human learns and draws
+Development
